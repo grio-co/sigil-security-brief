@@ -5,6 +5,10 @@ sigilOS, and what our internal review found at a high level.*
 
 **Published by GrioCo · 2026**
 
+Last reviewed: 2026-09-26
+
+Version: 0.1.0 <!-- PLACEHOLDER(greg): confirm version; no git tags exist, so 0.1.0 is assumed -->
+
 ---
 
 ## Why we're publishing this
