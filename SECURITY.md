@@ -134,6 +134,18 @@ whole point.
 
 ---
 
+## Reporting a vulnerability
+
+<!-- PLACEHOLDER(greg): security contact -->
+
+If you believe you have found a security issue in Sigil or sigilOS, please report it privately
+rather than opening a public issue. Include what you found, how to reproduce it, and the version
+or commit you tested against. We will acknowledge the report, keep you informed as we work on a
+fix, and credit you if you wish. Please give us a reasonable window to remediate before any
+public disclosure.
+
+---
+
 *This brief intentionally omits technical specifics. Security researchers who wish
 to report an issue responsibly can contact us through our security disclosure
 channel.*
